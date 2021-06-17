@@ -10,7 +10,9 @@ This app is basically a swipper which has all the planets of the solar system me
 + Run emulator via cmd.
 + Under "Run" in vsCode click on "Run Without Debugging" option to run the app on the emulator.
 
-This project is a starting point for a Flutter application.
+This project is a assingment given to reate a flutter app with 1 screen that has swipe-able cards. 
+
+Project has all the planets in the solar system mentioned in arranged manager to display the ability of the **Swiper** Widget.
 
 A few resources to get you started if this is your first Flutter project:
 
