@@ -5,10 +5,10 @@ This app is basically a swipper which has all the planets of the solar system me
 
 ## Getting Started
 
-+ After downloading the file from Github using git open it in vsCode.
-+  Download emulator via Android Studio.
++ After downloading the file from Github using git, open it in vsCode.
++ Download emulator via Android Studio.
 + Run emulator via cmd.
-+ Under "Run" click on "Run Without Debugging" option to run the app on the emulator.
++ Under "Run" in vsCode click on "Run Without Debugging" option to run the app on the emulator.
 
 This project is a starting point for a Flutter application.
 
