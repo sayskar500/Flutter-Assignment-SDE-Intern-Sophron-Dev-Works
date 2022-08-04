@@ -1,4 +1,4 @@
-Flutter Intern Sophron Dev Works Assignment
+Flutter Intern Sophron Dev Works Project
 
 This app is basically a swipper which has all the planets of the solar system mentioned in it.
 
